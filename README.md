@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @burstman
-- 👀 I’m interested in blockchain technologie
+- 👋 Hi, My name is Hamed
+- 👀 I’m interested in Machine learning technologie
 - 🌱 I’m junior Data scientist
-- 💞️ I’m looking to collaborate on with other peaple interested in golang and data science and i want to use go for machine learning
+- 💞️ I’m looking to collaborate on with other peaple interested in golang programming language and data science
 - 📫 How to reach me hamedflissi@gmail.com
 
 <!---
